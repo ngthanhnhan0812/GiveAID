@@ -1,0 +1,417 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\MSVS_Source\\repos\\GiveAID\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\GiveAID.bundle.scp.css",
+      "PackagePath": "staticwebassets\\GiveAID.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\MSVS_Source\\repos\\GiveAID\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\MSVS_Source\\repos\\GiveAID\\wwwroot\\css\\login\\animate.css",
+      "PackagePath": "staticwebassets\\css\\login\\animate.css"
+    },
+    {
+      "Id": "D:\\MSVS_Source\\repos\\GiveAID\\wwwroot\\css\\login\\animsition.min.css",
+      "PackagePath": "staticwebassets\\css\\login\\animsition.min.css"
+    },
+    {
+      "Id": "D:\\MSVS_Source\\repos\\GiveAID\\wwwroot\\css\\login\\daterangepicker.css",
+      "PackagePath": "staticwebassets\\css\\login\\daterangepicker.css"
+    },
+    {
+      "Id": "D:\\MSVS_Source\\repos\\GiveAID\\wwwroot\\css\\login\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\css\\login\\font-awesome.min.css"
+    },
+    {
+      "Id": "D:\\MSVS_Source\\repos\\GiveAID\\wwwroot\\css\\login\\hamburgers.min.css",
+      "PackagePath": "staticwebassets\\css\\login\\hamburgers.min.css"
+    },
+    {
+      "Id": "D:\\MSVS_Source\\repos\\GiveAID\\wwwroot\\css\\login\\main.css",
+      "PackagePath": "staticwebassets\\css\\login\\main.css"
+    },
+    {
+      "Id": "D:\\MSVS_Source\\repos\\GiveAID\\wwwroot\\css\\login\\material-design-iconic-font.min.css",
+      "PackagePath": "staticwebassets\\css\\login\\material-design-iconic-font.min.css"
+    },
+    {
+      "Id": "D:\\MSVS_Source\\repos\\GiveAID\\wwwroot\\css\\login\\select2.min.css",
+      "PackagePath": "staticwebassets\\css\\login\\select2.min.css"
+    },
+    {
+      "Id": "D:\\MSVS_Source\\repos\\GiveAID\\wwwroot\\css\\login\\util.css",
+      "PackagePath": "staticwebassets\\css\\login\\util.css"
+    },
+    {
+      "Id": "D:\\MSVS_Source\\repos\\GiveAID\\wwwroot\\css\\mem_login.css",
+      "PackagePath": "staticwebassets\\css\\mem_login.css"
+    },
+    {
+      "Id": "D:\\MSVS_Source\\repos\\GiveAID\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\MSVS_Source\\repos\\GiveAID\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "D:\\MSVS_Source\\repos\\GiveAID\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\MSVS_Source\\repos\\GiveAID\\wwwroot\\image\\login\\icon-google.webp",
+      "PackagePath": "staticwebassets\\image\\login\\icon-google.webp"
+    },
+    {
+      "Id": "D:\\MSVS_Source\\repos\\GiveAID\\wwwroot\\image\\nyannsuphu.png",
+      "PackagePath": "staticwebassets\\image\\nyannsuphu.png"
+    },
+    {
+      "Id": "D:\\MSVS_Source\\repos\\GiveAID\\wwwroot\\img\\about-1.jpg",
+      "PackagePath": "staticwebassets\\img\\about-1.jpg"
+    },
+    {
+      "Id": "D:\\MSVS_Source\\repos\\GiveAID\\wwwroot\\img\\about-2.jpg",
+      "PackagePath": "staticwebassets\\img\\about-2.jpg"
+    },
+    {
+      "Id": "D:\\MSVS_Source\\repos\\GiveAID\\wwwroot\\img\\bg.jpg",
+      "PackagePath": "staticwebassets\\img\\bg.jpg"
+    },
+    {
+      "Id": "D:\\MSVS_Source\\repos\\GiveAID\\wwwroot\\img\\carousel-1.jpg",
+      "PackagePath": "staticwebassets\\img\\carousel-1.jpg"
+    },
+    {
+      "Id": "D:\\MSVS_Source\\repos\\GiveAID\\wwwroot\\img\\carousel-2.jpg",
+      "PackagePath": "staticwebassets\\img\\carousel-2.jpg"
+    },
+    {
+      "Id": "D:\\MSVS_Source\\repos\\GiveAID\\wwwroot\\img\\cause4.jpg",
+      "PackagePath": "staticwebassets\\img\\cause4.jpg"
+    },
+    {
+      "Id": "D:\\MSVS_Source\\repos\\GiveAID\\wwwroot\\img\\courses-1.jpg",
+      "PackagePath": "staticwebassets\\img\\courses-1.jpg"
+    },
+    {
+      "Id": "D:\\MSVS_Source\\repos\\GiveAID\\wwwroot\\img\\courses-2.jpg",
+      "PackagePath": "staticwebassets\\img\\courses-2.jpg"
+    },
+    {
+      "Id": "D:\\MSVS_Source\\repos\\GiveAID\\wwwroot\\js\\login\\animsition.min.js",
+      "PackagePath": "staticwebassets\\js\\login\\animsition.min.js"
+    },
+    {
+      "Id": "D:\\MSVS_Source\\repos\\GiveAID\\wwwroot\\js\\login\\countdowntime.js",
+      "PackagePath": "staticwebassets\\js\\login\\countdowntime.js"
+    },
+    {
+      "Id": "D:\\MSVS_Source\\repos\\GiveAID\\wwwroot\\js\\login\\daterangepicker.js",
+      "PackagePath": "staticwebassets\\js\\login\\daterangepicker.js"
+    },
+    {
+      "Id": "D:\\MSVS_Source\\repos\\GiveAID\\wwwroot\\js\\login\\main.js",
+      "PackagePath": "staticwebassets\\js\\login\\main.js"
+    },
+    {
+      "Id": "D:\\MSVS_Source\\repos\\GiveAID\\wwwroot\\js\\login\\moment.min.js",
+      "PackagePath": "staticwebassets\\js\\login\\moment.min.js"
+    },
+    {
+      "Id": "D:\\MSVS_Source\\repos\\GiveAID\\wwwroot\\js\\login\\popper.js",
+      "PackagePath": "staticwebassets\\js\\login\\popper.js"
+    },
+    {
+      "Id": "D:\\MSVS_Source\\repos\\GiveAID\\wwwroot\\js\\login\\select2.min.js",
+      "PackagePath": "staticwebassets\\js\\login\\select2.min.js"
+    },
+    {
+      "Id": "D:\\MSVS_Source\\repos\\GiveAID\\wwwroot\\js\\main.js",
+      "PackagePath": "staticwebassets\\js\\main.js"
+    },
+    {
+      "Id": "D:\\MSVS_Source\\repos\\GiveAID\\wwwroot\\js\\mem_login.js",
+      "PackagePath": "staticwebassets\\js\\mem_login.js"
+    },
+    {
+      "Id": "D:\\MSVS_Source\\repos\\GiveAID\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\MSVS_Source\\repos\\GiveAID\\wwwroot\\lib\\animate\\animate.min.css",
+      "PackagePath": "staticwebassets\\lib\\animate\\animate.min.css"
+    },
+    {
+      "Id": "D:\\MSVS_Source\\repos\\GiveAID\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\MSVS_Source\\repos\\GiveAID\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\MSVS_Source\\repos\\GiveAID\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\MSVS_Source\\repos\\GiveAID\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\MSVS_Source\\repos\\GiveAID\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\MSVS_Source\\repos\\GiveAID\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\MSVS_Source\\repos\\GiveAID\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\MSVS_Source\\repos\\GiveAID\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\MSVS_Source\\repos\\GiveAID\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\MSVS_Source\\repos\\GiveAID\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\MSVS_Source\\repos\\GiveAID\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\MSVS_Source\\repos\\GiveAID\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\MSVS_Source\\repos\\GiveAID\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\MSVS_Source\\repos\\GiveAID\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\MSVS_Source\\repos\\GiveAID\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\MSVS_Source\\repos\\GiveAID\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\MSVS_Source\\repos\\GiveAID\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\MSVS_Source\\repos\\GiveAID\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\MSVS_Source\\repos\\GiveAID\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\MSVS_Source\\repos\\GiveAID\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\MSVS_Source\\repos\\GiveAID\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\MSVS_Source\\repos\\GiveAID\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\MSVS_Source\\repos\\GiveAID\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\MSVS_Source\\repos\\GiveAID\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\MSVS_Source\\repos\\GiveAID\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\MSVS_Source\\repos\\GiveAID\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\MSVS_Source\\repos\\GiveAID\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\MSVS_Source\\repos\\GiveAID\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\MSVS_Source\\repos\\GiveAID\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\MSVS_Source\\repos\\GiveAID\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\MSVS_Source\\repos\\GiveAID\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\MSVS_Source\\repos\\GiveAID\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\MSVS_Source\\repos\\GiveAID\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\MSVS_Source\\repos\\GiveAID\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\MSVS_Source\\repos\\GiveAID\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\MSVS_Source\\repos\\GiveAID\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\MSVS_Source\\repos\\GiveAID\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\MSVS_Source\\repos\\GiveAID\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\MSVS_Source\\repos\\GiveAID\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\MSVS_Source\\repos\\GiveAID\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\MSVS_Source\\repos\\GiveAID\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\MSVS_Source\\repos\\GiveAID\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\MSVS_Source\\repos\\GiveAID\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\MSVS_Source\\repos\\GiveAID\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\MSVS_Source\\repos\\GiveAID\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\MSVS_Source\\repos\\GiveAID\\wwwroot\\lib\\easing\\easing.min.js",
+      "PackagePath": "staticwebassets\\lib\\easing\\easing.min.js"
+    },
+    {
+      "Id": "D:\\MSVS_Source\\repos\\GiveAID\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\MSVS_Source\\repos\\GiveAID\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\MSVS_Source\\repos\\GiveAID\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\MSVS_Source\\repos\\GiveAID\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\MSVS_Source\\repos\\GiveAID\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\MSVS_Source\\repos\\GiveAID\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\MSVS_Source\\repos\\GiveAID\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\MSVS_Source\\repos\\GiveAID\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\MSVS_Source\\repos\\GiveAID\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\MSVS_Source\\repos\\GiveAID\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\MSVS_Source\\repos\\GiveAID\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\MSVS_Source\\repos\\GiveAID\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "D:\\MSVS_Source\\repos\\GiveAID\\wwwroot\\lib\\owlcarousel\\assets\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.carousel.min.css"
+    },
+    {
+      "Id": "D:\\MSVS_Source\\repos\\GiveAID\\wwwroot\\lib\\owlcarousel\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\owl.carousel.min.js"
+    },
+    {
+      "Id": "D:\\MSVS_Source\\repos\\GiveAID\\wwwroot\\lib\\parallax\\parallax.min.js",
+      "PackagePath": "staticwebassets\\lib\\parallax\\parallax.min.js"
+    },
+    {
+      "Id": "D:\\MSVS_Source\\repos\\GiveAID\\wwwroot\\lib\\waypoints\\waypoints.min.js",
+      "PackagePath": "staticwebassets\\lib\\waypoints\\waypoints.min.js"
+    },
+    {
+      "Id": "D:\\MSVS_Source\\repos\\GiveAID\\wwwroot\\lib\\wow\\wow.min.js",
+      "PackagePath": "staticwebassets\\lib\\wow\\wow.min.js"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.GiveAID.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.GiveAID.props",
+      "PackagePath": "build\\GiveAID.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.GiveAID.props",
+      "PackagePath": "buildMultiTargeting\\GiveAID.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.GiveAID.props",
+      "PackagePath": "buildTransitive\\GiveAID.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

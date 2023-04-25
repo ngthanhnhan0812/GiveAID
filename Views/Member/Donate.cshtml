@@ -1,0 +1,59 @@
+﻿@{
+    Layout = "_mem_layout";
+    ViewData.Clear();
+    ViewData["ActiveDonate"] = "active";
+    Member member = (Member)@TempData["Member"];
+}
+<!-- Donate Start -->
+<div class="container-fluid py-5">
+    <div class="container">
+        <div class="row g-5 align-items-center">
+            <div class="col-lg-6 wow fadeIn" data-wow-delay="0.1s">
+                <div class="d-inline-block rounded-pill bg-secondary text-primary py-1 px-3 mb-3">Donate Now</div>
+                <h1 class="display-6 mb-5">Thanks For The Results Achieved With You</h1>
+                <p class="mb-0">Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit. Aliqu diam amet diam et eos. Clita erat ipsum et lorem et sit, sed stet lorem sit clita duo justo magna dolore erat amet</p>
+            </div>
+            <div class="col-lg-6 wow fadeIn" data-wow-delay="0.5s">
+                <div class="h-100 bg-secondary p-5">
+                    <form asp-controller="Member" asp-action="CreateOrder" method="post">
+                        @Html.AntiForgeryToken()
+                        <div class="row g-3">
+                            <div class="col-12">
+                                <div class="form-floating">
+                                    <input name="Name" type="text" class="form-control bg-light border-0" value="@member.mem_name" id="name" placeholder="Your Name">
+                                    <label for="name">Your Name</label>
+                                </div>
+                            </div>
+                            <div class="col-12">
+                                <div class="form-floating">
+                                    <input name="Email" type="email" class="form-control bg-light border-0" value="@member.email" id="email" placeholder="Your Email">
+                                    <label for="email">Your Email</label>
+                                </div>
+                            </div>
+                            <div class="col-12">
+                                <div class="form-floating">
+                                    <select name="Topic" class="form-select">
+                                        <option value="1">Topic 1</option>
+                                        <option value="2">Topic 2</option>
+                                    </select>
+                                </div>
+                            </div>
+                            <div class="col-12">
+                                <div class="form-floating">
+                                    <input name="Amount" type="number" min="0" class="form-control bg-light border-0" id="btnradio1" placeholder="Amount (VND)">
+                                    <label for="btnradio1">Amount</label>
+                                </div>
+                            </div>
+                            <div class="col-12">
+                                <button class="btn btn-primary px-5" style="height: 60px;">
+                                    Donate Now
+                                </button>
+                            </div>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- Donate End -->

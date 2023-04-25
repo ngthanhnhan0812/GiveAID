@@ -1,0 +1,28 @@
+﻿@model GiveAID.Models.Contact
+
+<h1>Contact Us</h1>
+
+@Html.ValidationSummary()
+<form method="post" action="Contact" enctype="multipart/form-data">
+    <label for="name">Name:</label>
+    @*@Html.TextBoxFor(m => m.Member.first_name, new { id = "name" })
+    @Html.ValidationMessageFor(m => m.Member.first_name)*@
+
+    @*<label for="email">Email:</label>*@
+    @Html.TextBoxFor(m => m.Member.email, new { id = "email" })
+    @Html.ValidationMessageFor(m => m.Member.email)
+
+    <label for="phone_number">Phone:</label>
+    @Html.TextAreaFor(m => m.phone_number, new { id = "phone_number" })
+    @Html.ValidationMessageFor(m => m.phone_number)
+
+    <label for="subject">Subject:</label>
+    @Html.TextAreaFor(m => m.subject, new { id = "subject" })
+    @Html.ValidationMessageFor(m => m.subject)
+
+    <label for="body">Body:</label>
+    @Html.TextAreaFor(m => m.body, new { id = "body" })
+    @Html.ValidationMessageFor(m => m.body)
+
+    <button type="submit">Send</button>
+</form>
